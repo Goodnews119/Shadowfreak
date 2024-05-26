@@ -38,8 +38,8 @@ sys.setdefaultencoding('utf8')
 br = mechanize.Browser()
 br.set_handle_robots(False)
 br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(),max_time=1)
-br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/32.0.2254/85. U; id) Presto/2.12.423 Version/12.16')]
-br.addheaders = [('user-agent','Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
+br.addheaders = [('User-Agent', 'Mozilla/5.0 (Linux; U; Android 11; ar-; Infinix X688B Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672.162 Mobile Safari/537.36 PHX/14. 2')]
+br.addheaders = [('user-agent','Mozilla/5.0 (Linux; Android 11; Infinix X688B Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.114 Mobile Safari/537.36 [[FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z007;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
 def keluar():
 	print 'Subscribe To Jackson'
 	os.sys.exit()
@@ -11439,7 +11439,7 @@ jalan("\033[1;93m▇▇\033[1;92m         WhatsApp  Num +2347063532510    \033[1
 jalan("\033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
 print "\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮\033[1;91mJack-son\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮"
 CorrectUsername = "GOODNEWS"
-CorrectPassword = "SHADOW"
+CorrectPassword = "GENERAL"
 
 loop = 'true'
 while (loop == 'true'):
