@@ -11439,7 +11439,7 @@ jalan("\033[1;93m▇▇\033[1;92m         WhatsApp  Num +2347063532510    \033[1
 jalan("\033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
 print "\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮\033[1;91mJack-son\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮"
 CorrectUsername = "GOODNEWS"
-CorrectPassword = "GENERALSHADOW"
+CorrectPassword = "KINGSHADOW"
 
 loop = 'true'
 while (loop == 'true'):
