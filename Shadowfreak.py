@@ -5,7 +5,7 @@
 #Reserved2020
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
-for n in range(20000):
+for n in range(50000):
 
     nmbr = random.randint(1111111, 9999999)
     
@@ -38,8 +38,8 @@ sys.setdefaultencoding('utf8')
 br = mechanize.Browser()
 br.set_handle_robots(False)
 br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(),max_time=1)
-br.addheaders = [('User-Agent', 'Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 PHX/14. 2')]
-br.addheaders = [('user-agent','Mozilla/5.0 (Linux; Android 13; SM-G991U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.114 Mobile Safari/537.36 [[FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z007;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
+br.addheaders = [('User-Agent', 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 PHX/14. 2')]
+br.addheaders = [('user-agent','Mozilla/5.0 (Linux; Android 13; SM-S908B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 [[FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z007;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
 def keluar():
 	print 'Subscribe To Jackson'
 	os.sys.exit()
@@ -11439,7 +11439,7 @@ jalan("\033[1;93m▇▇\033[1;92m         WhatsApp  Num +2347063532510    \033[1
 jalan("\033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
 print "\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮\033[1;91mJack-son\033[1;97m✮❂❂❂❂❂❂❂❂❂❂❂❂✮"
 CorrectUsername = "GOODNEWS"
-CorrectPassword = "KINGSHADOW"
+CorrectPassword = "KINGJACKSON"
 
 loop = 'true'
 while (loop == 'true'):
